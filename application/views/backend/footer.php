@@ -1,6 +1,6 @@
             </div>
 
-            <footer class="footer"> © <?php echo date('Y')?> | Developed By Htrap ^ Nishchaya </footer>
+            <footer class="footer"> © <?php echo date('Y')?> | Developed By Htrap ^ Nishchaya 🚀 </footer>
 
         </div>
 
